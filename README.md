@@ -39,8 +39,7 @@ Busco constantemente evoluir minhas habilidades e aplicar boas práticas no dese
 ## 📫 Contato
 
 - 📧 Email: **kkhaunn@gmail.com**  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/guilherme-emanoel-54614b230](https://www.linkedin.com/in/khauan-gabriel-59554a285/))  
-- 💻 [GitHub]([https://github.com/guilhermeemanoel099](https://github.com/Khauan-X))
+- 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-emanoel-54614b230](https://www.linkedin.com/in/khauan-gabriel-59554a285/)  
 
 ---
 
