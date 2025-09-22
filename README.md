@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6EF7A7&center=true&vCenter=true&width=435&lines=👋+Oi,+eu+sou+o+Khauan!;Desenvolvedor+Full+Stack;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6EF7A7&center=true&vCenter=true&width=435&lines=👋+Oi,+eu+sou+o+Khauan!;Desenvolvedor+Back+End;" alt="Typing SVG" />
 </p>
 
 <h3 align="center">🚀 Transformando ideias em código 🚀</h3>
