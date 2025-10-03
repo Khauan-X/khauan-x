@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">🚀 Transformando ideias em código 🚀</h3>
-<p align="center">Criando soluções com JavaScript, Python, React, MySQL e muito mais 💻</p>
+<p align="center">Criando soluções com JavaScript, Python e muito mais 💻</p>
 
 ---
 
