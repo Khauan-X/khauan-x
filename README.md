@@ -22,8 +22,8 @@ Busco constantemente evoluir minhas habilidades e aplicar boas práticas no dese
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilherme-dev099&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-dev099&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Khauan-X&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khauan-X&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
